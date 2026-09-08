@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac">
+  <FileVersion appName="xl" lastEdited="2026" lowestEdited="5" rupBuild="19"/>
+  <WorkbookPr defaultTheme="1"/>
+  <BookViews>
+    <WorkbookView xWindow="0" yWindow="0" windowWidth="16384" windowHeight="8192" firstSheet="0" activeTab="0"/>
+  </BookViews>
+  <Sheets>
+    <Sheet name="DASHBOARD" sheetId="1" r:id="rId1"/>
+    <Sheet name="Asset_Master" sheetId="2" r:id="rId2"/>
+    <Sheet name="Electrical_Assets" sheetId="3" r:id="rId3"/>
+    <Sheet name="Pump_Performance" sheetId="4" r:id="rId4"/>
+    <Sheet name="Motor_Condition" sheetId="5" r:id="rId5"/>
+    <Sheet name="Transformer_Condition" sheetId="6" r:id="rId6"/>
+    <Sheet name="DG_Set_Condition" sheetId="7" r:id="rId7"/>
+    <Sheet name="Thermal_Inspection" sheetId="8" r:id="rId8"/>
+    <Sheet name="Instrumentation" sheetId="9" r:id="rId9"/>
+    <Sheet name="SCADA_PLC_Validation" sheetId="10" r:id="rId10"/>
+    <Sheet name="Safety_Compliance" sheetId="11" r:id="rId11"/>
+    <Sheet name="Documentation_Matrix" sheetId="12" r:id="rId12"/>
+    <Sheet name="Spares_Stores" sheetId="13" r:id="rId13"/>
+    <Sheet name="Punch_List" sheetId="14" r:id="rId14"/>
+    <Sheet name="Risk_Register" sheetId="15" r:id="rId15"/>
+    <Sheet name="Lifecycle_Assessment" sheetId="16" r:id="rId16"/>
+    <Sheet name="Management_Report" sheetId="17" r:id="rId17"/>
+    <Sheet name="Data_Reference" sheetId="18" r:id="rId18"/>
+  </Sheets>
+  <DefinedNames/>
+  <CalcPr calcId="162938"/>
+</Workbook>
